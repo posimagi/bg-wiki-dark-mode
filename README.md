@@ -4,4 +4,4 @@ Thanks for using Dark Mode! Please report issues in the [Issues tab](https://git
 
 When submitting an issue, please leave as much detail as possible, including a link to the section on the page where the issue is present, and any supporting screenshots.
 
-Remember that all contributors to this project are unpaid volunteers. We will make our best effort to address issues but cannot provide guarantees.
+Remember that all contributors to this project are unpaid volunteers. We will make our best effort to address issues. Please be civil.
